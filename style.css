@@ -1,0 +1,54 @@
+img{
+	width: 300px;
+}
+
+
+/* 
+Block Elements : headings tage, paragaph tags, div, sections,etc
+Inline Elements : input, label, img, etc
+
+*/
+
+.mainDiv{
+	width: 80%;
+	background-color: pink;
+	padding: 20px;
+}
+
+.formDiv{
+	width: 90%;
+	background-color: skyblue;
+	padding: 20px;
+}
+
+
+input{
+	width: 100%;
+	margin-bottom: 10px;
+	padding: 10px;
+	border: none;
+	border-radius: 5px;
+}
+
+
+button{
+	background-color: green;
+	color: white;
+	padding: 10px;
+	border: none;
+	border-radius: 5px;
+	display: block;
+	margin: auto;
+}
+
+.formHeading{
+	text-align: center;
+}
+
+
+
+
+
+
+
+
